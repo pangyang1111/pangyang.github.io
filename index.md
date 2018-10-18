@@ -1,1 +1,1 @@
-<img src="http://static.runoob.com/images/demo/demo1.jpg"/>
+<img src="http://static.runoob.com/images/demo/demo1.jpg" width="200px"/>
